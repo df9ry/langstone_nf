@@ -1,0 +1,43 @@
+Hinweis: Verarbeite Symbol "R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "J4:Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical".
+Hinweis: Verarbeite Symbol "J5:Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical".
+Hinweis: Verarbeite Symbol "J6:DF9RY:Jack_3.5mm_Ledino_Stereo_Switch_Horizontal".
+Hinweis: Verarbeite Symbol "J7:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical".
+Hinweis: Verarbeite Symbol "R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "C2:Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm".
+Hinweis: Verarbeite Symbol "R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "R10:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+Hinweis: Verarbeite Symbol "RV1:Potentiometer_THT:Potentiometer_ACP_CA9-V10_Vertical".
+Hinweis: Verarbeite Symbol "RV2:Potentiometer_THT:Potentiometer_ACP_CA9-V10_Vertical".
+Hinweis: Verarbeite Symbol "U1:Package_DIP:DIP-8_W7.62mm_Socket".
+Hinweis: Verarbeite Symbol "U2:Package_DIP:DIP-8_W7.62mm_Socket".
+Hinweis: Verarbeite Symbol "J2:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical".
+Hinweis: Verarbeite Symbol "C1:Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm".
+Hinweis: Verarbeite Symbol "C3:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+Hinweis: Verarbeite Symbol "C4:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+Hinweis: Verarbeite Symbol "C5:Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm".
+Hinweis: Verarbeite Symbol "C6:Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm".
+Hinweis: Verarbeite Symbol "C7:Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm".
+Hinweis: Verarbeite Symbol "C8:Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm".
+Hinweis: Verarbeite Symbol "C9:Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm".
+Hinweis: Verarbeite Symbol "C10:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+Hinweis: Verarbeite Symbol "C11:Capacitor_THT:CP_Radial_D4.0mm_P1.50mm".
+Hinweis: Verarbeite Symbol "C12:Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm".
+Hinweis: Verarbeite Symbol "C13:Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm".
+Hinweis: Verarbeite Symbol "FB1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+Hinweis: Verarbeite Symbol "J1:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical".
+Hinweis: Verarbeite Symbol "J3:DF9RY:Jack_3.5mm_Ledino_Stereo_Switch_Horizontal".
+Netz Net-(C13-Pad2) hinzufügen.
+C13 Pin 2 von Net-(J6-PadS) nach Net-(C13-Pad2) wieder verbunden.
+J6 Pin T von Net-(J6-PadS) nach Net-(C13-Pad2) wieder verbunden.
+J6 Pin S von Net-(J6-PadS) nach Net-(C13-Pad2) wieder verbunden.
+Unbenutztes Netz "Net-(J6-PadS)" entfernt.
+Unbenutztes Netz "Net-(R4-Pad1)" entfernt.
+
+
+Hinweis: Warnungen insgesamt: 0, Fehler insgesamt: 0.
